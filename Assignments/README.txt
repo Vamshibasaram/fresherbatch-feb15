@@ -1,3 +1,7 @@
 Hello
-HOW are you
-good to here that!
+<<<<<<< HEAD
+=======
+HOW are you ? I'm fine
+
+What about you?
+>>>>>>> html-Assignments
